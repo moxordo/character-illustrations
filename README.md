@@ -18,6 +18,7 @@ What this adaptation adds:
 - **A local SVG rendering backend (default)** — author the illustration as SVG (feTurbulence wobble, hand fonts, the profile's SVG recipe) and render with headless Chrome. Label text is always exact, sources stay editable, and no image-generation model is needed. The original image-gen prompt template remains as an alternative backend.
 - **Two palette modes** — `single-accent` (black + one emphasis color) and `semantic-triad` (orange = flow, red = warnings, blue = meta), chosen per character.
 - **Multi-actor labeling rules** — every actor in a scene gets named; mechanisms get drawn concretely, not as labeled boxes.
+- **Personas** — a character profile can carry an optional voice-and-flair section: label register, catchphrases (max one per image), signature gestures/props, and a staging quirk. The claim-vs-reality gap between what the labels say and what the drawing shows becomes a joke engine.
 
 ## Characters included
 
@@ -26,6 +27,7 @@ What this adaptation adds:
 | `peanut` | deadpan in-shell peanut, cross-hatch shell, dot eyes | single warm-orange accent |
 | `xiaohei` (小黑) | solid-black creature, white dot eyes | orange / red / blue semantic triad |
 | `monkey` | warm-brown monkey, cream face patch, curled working tail | single warm-orange accent |
+| `trump` | persona caricature: gold swoop, extra-long red tie, announces instead of labors | single red accent |
 | `_TEMPLATE` | copy it to define your own | your call |
 
 ## Examples
@@ -37,6 +39,12 @@ Adapting a character into the house style (the monkey's debut sheet):
 An article illustration (Loop Engineering — "stop prompting the agent; build the loop that prompts the agent"):
 
 ![Loop engineering](examples/images/loop-engineering.png)
+
+A persona character (the Donald — the red label makes the claim, the drawing quietly disagrees):
+
+![Big beautiful wall](examples/images/big-beautiful-wall.png)
+
+![Biggest crowd ever](examples/images/biggest-crowd.png)
 
 ## Install
 

@@ -31,7 +31,7 @@ Before drawing each image, state in a few lines (enough for the user to catch a 
 
 - **Metaphor** — the fresh low-tech metaphor invented for this idea (see `references/composition-patterns.md`; never reuse a prior composition).
 - **Character's action** — what the character is physically doing to drive the idea.
-- **Labels** — the short handwritten labels that will appear, in the input's language unless the profile pins one. Label every actor in multi-actor scenes.
+- **Labels** — the short handwritten labels that will appear, in the input's language unless the profile pins one. Label every actor in multi-actor scenes. If the profile has a **Persona** section, write labels in its voice (max one signature phrase and one ALL-CAPS word per image) and stage the scene per its staging quirk.
 - **Composition** — where the character sits, the main object, how the eye moves.
 
 ## Step 4: Draw
@@ -55,9 +55,11 @@ Render, then **look at the output** (Read the PNG) and run `references/qa-checkl
 
 ## Resources
 
-- `characters/_TEMPLATE.md` — blank character profile; copy to define a new character.
+- `characters/_TEMPLATE.md` — blank character profile (form + optional persona); copy to define a new character.
 - `characters/peanut.md` — deadpan in-shell peanut (single warm-orange accent, watermark).
 - `characters/xiaohei.md` — 小黑, solid-black creature with white dot eyes (orange/red/blue semantic palette).
+- `characters/monkey.md` — warm-brown monkey with a working curled tail (single warm-orange accent).
+- `characters/trump.md` — persona-driven caricature: gold swoop, long red tie, claim-vs-reality staging (single red accent).
 - `references/style-dna.md` — shared visual DNA: line, whitespace, palette modes, label rules, hard nos.
 - `references/composition-patterns.md` — structure types, fresh-metaphor method, multi-actor labeling, anti-copy rules.
 - `references/svg-workflow.md` — default backend: SVG authoring + headless Chrome rendering.

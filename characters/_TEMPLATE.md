@@ -41,12 +41,28 @@ becoming a funnel, cracking/splitting, stamping, leading a path, holding a
 warning sign, reaching but not catching, carrying/building/sorting/recording.
 Adapt and extend to fit the character's body.
 
+## Persona (voice & flair — optional)
+
+Only for characters with a strong voice. When present, this section changes how
+labels are written and how scenes are staged, not just how the character looks:
+
+- **Label voice**: the register labels are written in (catchphrases, verbal tics,
+  favorite words). Keep restraint: at most ONE signature phrase per image, and
+  at most one ALL-CAPS word — deadpan dies when everything shouts.
+- **Signature gestures**: 2–4 poses instantly associated with the persona.
+- **Signature props**: 2–4 objects the persona brings into scenes.
+- **Staging quirk**: what "doing the job" means for this persona (e.g. announcing
+  instead of laboring). The gap between the label's claim and what the drawing
+  shows is a legitimate joke engine.
+
 ## Don'ts
 
 - Not over-cute, not a children's-cartoon character.
 - No elaborate clothing, emoji faces, or sparkly eyes.
 - Never just standing in a corner watching.
 - Never upstaging the structure it explains.
+- For real-person caricatures: satire stays in the staging and iconic mannerisms;
+  no demeaning physical mockery, no fabricated harmful claims.
 
 ## SVG recipe
 
