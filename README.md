@@ -42,9 +42,9 @@ An article illustration (Loop Engineering — "stop prompting the agent; build t
 
 A persona character (the Donald — the red label makes the claim, the drawing quietly disagrees):
 
-![Big beautiful wall](examples/images/big-beautiful-wall.png)
+![Big beautiful wall](examples/images/big-beautiful-wall.png?v=2)
 
-![Biggest crowd ever](examples/images/biggest-crowd.png)
+![Biggest crowd ever](examples/images/biggest-crowd.png?v=2)
 
 ## Install
 
